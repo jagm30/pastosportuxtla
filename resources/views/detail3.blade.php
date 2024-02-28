@@ -61,13 +61,25 @@
             <!-- Sidebar Start -->
             <div class="col-lg-4">
 
-                <!-- Category Start -->
-                <div class="mb-5">
-                    <div class="d-flex flex-column justify-content-start bg-light p-4">
-                        <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FPastoSinteticoST%2F%3Flocale%3Des_LA&tabs=timeline&width=500&height=700&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="500" height="700" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+                <style type="text/css">
+                    #contfacebook {
+                        max-width:600px !important; height:500px; text-align: center;
+                    }
+                    .col-lg-4 {text-align: center;}
+                    @media only screen and (max-width: 400px) {
+                        #contfacebook {
+                            max-width:380px !important; height:500px; text-align: center;
+                        }
+                        .mb-5 {text-align: center;}
+                    }
+                </style>
+                    <!-- Category Start -->
+                    <div class="mb-5" style="text-align: center !important;">
+                        
+                            <iframe id="contfacebook" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FPastoSinteticoST%2F&tabs=timeline&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+                        
                     </div>
-                </div>
-                <!-- Category End -->
+                    <!-- Category End -->
 
                 <!-- Recent Post Start -->
                 <div class="mb-5">

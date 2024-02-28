@@ -1,7 +1,16 @@
 @extends("../layout.plantilla")
 @section("bodypage")
 
-
+<style type="text/css">
+    #imgwhatsapp {
+        width:400px; height:100px;
+    }
+    @media only screen and (max-width: 600px) {
+        #imgwhatsapp {
+            width:200px; height:50px;
+        }
+    }
+</style>
     <!-- Page Header Start -->
     <div class="container-fluid page-header">
         <h1 class="display-3 text-uppercase text-white mb-3">Contacto</h1>
@@ -26,7 +35,7 @@
             <div class="col-lg-5 pb-5" style="min-height: 400px;">
                 <h1 class="display-5 text-uppercase mb-4">𝐄𝐦𝐩𝐫𝐞𝐬𝐚 𝟏𝟎𝟎 % 𝐂𝐇𝐈𝐀𝐏𝐀𝐍𝐄𝐂𝐀.<span class="text-primary">¡Dedicada a hacer trabajos de calidad!</span></h1>
 
-                <a href="https://wa.link/1tpdmx" target="_blank"><span> <img src="img/cotiza.png" width="400" height="100"> </span></a>
+                <a href="https://wa.link/1tpdmx" target="_blank"><span> <img id="imgwhatsapp" src="img/cotiza.png" > </span></a>
                 <br><br><br>
                 <p><i class="fa fa-map-marker-alt me-2"></i>Av.15 Noviembre, mz 44 lte. Linda vista Shanka.</p>
                 <p><i class="fa fa-phone-alt me-2"></i>961 207 4672</p>

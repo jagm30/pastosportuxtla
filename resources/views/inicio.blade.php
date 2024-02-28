@@ -57,10 +57,22 @@
                     <img class="img-fluid" src="img/about.jpg" style="object-fit: cover;">
                 </div>
             </div>
-            <div class="col-lg-4 pb-5" style="min-height: 400px;">
-                <div class="position-relative bg-dark-radial h-100 ms-5">
-                  <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FPastoSinteticoST%2F&tabs=timeline&width=500&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-                </div>
+            <style type="text/css">
+                #contfacebook {
+                    max-width:600px !important; height:500px; text-align: center;
+                }
+                .col-lg-4 {text-align: center;}
+                @media only screen and (max-width: 400px) {
+                    #contfacebook {
+                        max-width:380px !important; height:500px; text-align: center;
+                    }
+                    .col-lg-4 {text-align: center;}
+                }
+            </style>
+            <div class="col-lg-4 pb-4" style="min-height: 400px;">
+                
+                  <iframe id="contfacebook" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FPastoSinteticoST%2F&tabs=timeline&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" style="border:none;overflow:hidden" scrolling="true" frameborder="1" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+                
             </div>
         </div>
     </div>
