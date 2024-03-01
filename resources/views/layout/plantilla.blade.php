@@ -121,20 +121,20 @@
                     <div class="col-sm-6">
                         <h4 class="text-white text-uppercase mb-4">Links</h4>
                         <div class="d-flex flex-column justify-content-start">
-                            <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right me-2"></i>Inicio</a>
-                            <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right me-2"></i>Nosotros</a>
-                            <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right me-2"></i>Servicios</a>
-                            <a class="text-white-50" href="#"><i class="fa fa-angle-right me-2"></i>Contacto</a>
+                            <a class="text-white-50 mb-2" href="/"><i class="fa fa-angle-right me-2"></i>Inicio</a>
+                            <a class="text-white-50 mb-2" href="/nosotros"><i class="fa fa-angle-right me-2"></i>Nosotros</a>
+                            <a class="text-white-50 mb-2" href="/servicios"><i class="fa fa-angle-right me-2"></i>Servicios</a>
+                            <a class="text-white-50" href="/contacto"><i class="fa fa-angle-right me-2"></i>Contacto</a>
                         </div>
                     </div>
                     <div class="col-sm-6">
                         <h4 class="text-white text-uppercase mb-4">Servicios</h4>
                         <div class="d-flex flex-column justify-content-start">
-                            <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right me-2"></i>Pasto sintético Deportivo</a>
-                            <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right me-2"></i>Pasto sintético residencial</a>
-                            <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right me-2"></i>Pintura antiderrapante sonnoflex</a>
+                            <a class="text-white-50 mb-2" href="/servicio-sintetico"><i class="fa fa-angle-right me-2"></i>Pasto sintético Deportivo</a>
+                            <a class="text-white-50 mb-2" href="/servicio-sonnoflex"><i class="fa fa-angle-right me-2"></i>Pintura antiderrapante sonnoflex</a>
+                            <!--<a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right me-2"></i>Pasto sintético residencial</a>
                             <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right me-2"></i>Follajes artificiales</a>
-                            <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right me-2"></i>Pista de tartán</a>
+                            <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right me-2"></i>Pista de tartán</a>-->
                         </div>
                     </div>
                     <div class="col-sm-12">

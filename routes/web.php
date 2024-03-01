@@ -28,6 +28,9 @@ Route::get('/contacto', function () {
 Route::get('/servicio-sintetico', function () {
     return view('detail');
 });
+Route::get('/servicio-residencial', function () {
+    return view('detail2');
+});
 Route::get('/servicio-sonnoflex', function () {
     return view('detail3');
 });

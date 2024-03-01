@@ -83,26 +83,26 @@
 
                 <!-- Recent Post Start -->
                 <div class="mb-5">
-                    <h3 class="text-uppercase mb-4">Productos</h3>
+                    <h3 class="text-uppercase mb-4">Servicios</h3>
                     <div class="bg-light p-4">
                         <div class="d-flex mb-3">
                             <img class="img-fluid" src="img/blog-1.jpg" style="width: 100px; height: 100px; object-fit: cover;" alt="">
-                            <a href="" class="h6 d-flex align-items-center bg-white text-uppercase px-3 mb-0">Pasto sintético deportivo
+                            <a href="/servicio-sintetico" class="h6 d-flex align-items-center bg-white text-uppercase px-3 mb-0">Pasto sintético deportivo
                             </a>
                         </div>
                         <div class="d-flex mb-3">
                             <img class="img-fluid" src="img/blog-2.jpg" style="width: 100px; height: 100px; object-fit: cover;" alt="">
-                            <a href="" class="h6 d-flex align-items-center bg-white text-uppercase px-3 mb-0">Pasto sintético residencial
+                            <a href="/servicio-residencial" class="h6 d-flex align-items-center bg-white text-uppercase px-3 mb-0">Pasto sintético residencial
                             </a>
                         </div>
                         <div class="d-flex mb-3">
                             <img class="img-fluid" src="img/blog-3.jpg" style="width: 100px; height: 100px; object-fit: cover;" alt="">
-                            <a href="" class="h6 d-flex align-items-center bg-white text-uppercase px-3 mb-0">Pintura antiderrapante sonnoflex 
+                            <a href="/servicio-sonnoflex" class="h6 d-flex align-items-center bg-white text-uppercase px-3 mb-0">Pintura antiderrapante sonnoflex 
                             </a>
                         </div>                       
                     </div>
                 </div>
-                <!-- Recent Post End -->                          
+                <!-- Recent Post End -->                    
             </div>
             <!-- Sidebar End -->
         </div>
