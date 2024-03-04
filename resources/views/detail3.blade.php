@@ -13,10 +13,8 @@
                 <!-- Blog Detail Start -->
                 <div class="mb-5">
                     <div class="row">
-                        <div class="col-lg-5 pb-5" style="min-height: 300px;">
-                            <div class="position-relative bg-dark-radial h-100 ms-5">
-                                <img class="position-absolute w-100 h-100 mt-5 ms-n5" src="img/sannoflex-1.jpg" style="object-fit: cover; width: 150px; height: 150px;">
-                            </div>
+                        <div class="col-lg-5 pb-5" style="min-height: 300px;">                            
+                                <img class="img-fluid" src="img/sannoflex-1.jpg" >
                         </div>
                         <div class="col-lg-7">
                             <h1 class="text-uppercase mb-4">PINTURA ANTIDERRAPANTE SONNOFLEX</h1>
@@ -37,19 +35,17 @@
                         <div class="col-lg-7">
                         <h1 class="display-5 text-uppercase mb-4"> <span class="text-primary">Aplicacion de Sonnoflex </span></h1>
                         <!--<h4 class="text-uppercase mb-3 text-body">Tempor erat elitr at rebum at at clita. Diam dolor diam ipsum tempor sit diam amet diam et eos labore</h4>-->                        
-                        <p class="fw-bold mb-2" style="text-align: justify;"><i class="fa fa-check text-primary me-3"></i><b style="color:#F08300">Verificar la superficie</b><br>Verificar que la superficie de la cancha sea una superficie firme y de concreto</p>
-                        <p class="fw-bold mb-2" style="text-align: justify;"><i class="fa fa-check text-primary me-3"></i><b style="color:#008925">Limpieza</b><br>Limpieza de la superficie</p>
-                        <p class="fw-bold mb-2" style="text-align: justify;"><i class="fa fa-check text-primary me-3"></i><b style="color:#F307D3">Resanar</b><br>Correción de imperfecciones, grietas y uniones mediante una mezcla homogenea de arena silica y sellador bond.</p>
-                        <p class="fw-bold mb-2" style="text-align: justify;"><i class="fa fa-check text-primary me-3"></i><b style="color:#E31717">Pulido de la superficie</b><br>Pulimos la superficie para conseguir una superficie brillante, uniforme, suave y libre de defectos.</p>
-                        <p class="fw-bold mb-2" style="text-align: justify;"><i class="fa fa-check text-primary me-3"></i><b style="color:#79800E">Resurfaces</b><br> Aplicamos 2 capas de resufacer con cargas de arena silica con el fin de sella y dotar la superficie a una textura uniforme, resistente y adherente evitando la humedad en la cancha.</p>
-                        <p class="fw-bold mb-2" style="text-align: justify;"><i class="fa fa-check text-primary me-3"></i><b style="color:blue">Pintura Sonoflex</b><br> Aplicamos 2 capaz de pintura acrílica antiderrapante marca sonoflex con cargas de arena silica (colores requeridos)</p>
-                        <p class="fw-bold mb-2" style="text-align: justify;"><i class="fa fa-check text-primary me-3"></i><b style="color:#000F7D">Delimitaciones de la cancha</b><br> Trazado o demarcación de la cancha a cuantos diseños se desee (Fútbol, Básquetbol, Voleibol).</p>
+                        <p class="fw-bold mb-2" style="text-align: justify; font-size: 0.8em;"><i class="fa fa-check text-primary me-3"></i><b style="color:#F08300">Verificar la superficie</b><br>Verificar que la superficie de la cancha sea una superficie firme y de concreto</p>
+                        <p class="fw-bold mb-2" style="text-align: justify; font-size: 0.8em;"><i class="fa fa-check text-primary me-3"></i><b style="color:#008925">Limpieza</b><br>Limpieza de la superficie</p>
+                        <p class="fw-bold mb-2" style="text-align: justify; font-size: 0.8em;"><i class="fa fa-check text-primary me-3"></i><b style="color:#F307D3">Resanar</b><br>Correción de imperfecciones, grietas y uniones mediante una mezcla homogenea de arena silica y sellador bond.</p>
+                        <p class="fw-bold mb-2" style="text-align: justify; font-size: 0.8em;"><i class="fa fa-check text-primary me-3"></i><b style="color:#E31717">Pulido de la superficie</b><br>Pulimos la superficie para conseguir una superficie brillante, uniforme, suave y libre de defectos.</p>
+                        <p class="fw-bold mb-2" style="text-align: justify; font-size: 0.8em;"><i class="fa fa-check text-primary me-3"></i><b style="color:#79800E">Resurfaces</b><br> Aplicamos 2 capas de resufacer con cargas de arena silica con el fin de sella y dotar la superficie a una textura uniforme, resistente y adherente evitando la humedad en la cancha.</p>
+                        <p class="fw-bold mb-2" style="text-align: justify; font-size: 0.8em;"><i class="fa fa-check text-primary me-3"></i><b style="color:blue">Pintura Sonoflex</b><br> Aplicamos 2 capaz de pintura acrílica antiderrapante marca sonoflex con cargas de arena silica (colores requeridos)</p>
+                        <p class="fw-bold mb-2" style="text-align: justify; font-size: 0.8em;"><i class="fa fa-check text-primary me-3"></i><b style="color:#000F7D">Delimitaciones de la cancha</b><br> Trazado o demarcación de la cancha a cuantos diseños se desee (Fútbol, Básquetbol, Voleibol).</p>
                         
                     </div>
                     <div class="col-lg-5 pb-5" style="min-height: 300px;">
-                        <div class="position-relative bg-dark-radial h-100 ms-5">
-                            <img class="position-absolute w-100 h-100 mt-5 ms-n5" src="img/sonnoflex-2.jpg" style="object-fit: cover; width: 150px; height: 150px;">
-                        </div>
+                        <img class="img-fluid" src="img/sonnoflex-2.jpg">
                     </div>
                    </div>
                 </div>
@@ -76,7 +72,7 @@
                     <!-- Category Start -->
                     <div class="mb-5" style="text-align: center !important;">
                         
-                            <iframe id="contfacebook" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FPastoSinteticoST%2F&tabs=timeline&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+                            <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FPastoSinteticoST&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
                         
                     </div>
                     <!-- Category End -->

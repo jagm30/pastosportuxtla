@@ -14,10 +14,10 @@
                 <!-- Blog Detail Start -->
                 <div class="mb-5">
                     <div class="row">
-                        <div class="col-lg-5 pb-5" style="min-height: 300px;">
-                            <div class="position-relative bg-dark-radial h-100 ms-5">
-                                <img class="position-absolute w-100 h-100 mt-5 ms-n5" src="img/blog-2.jpg" style="object-fit: cover; width: 150px; height: 150px;">
-                            </div>
+                        <div class="col-lg-5 pb-5" style="min-height: 250px;">
+                            <br>
+                            <img class="img-fluid" src="img/galeria/sintetico/img_3.jpg">
+                            
                         </div>
                         <div class="col-lg-7">
                             <h1 class="text-uppercase mb-4">PASTO SINTETICO DEPORTIVO</h1>
@@ -122,7 +122,7 @@
                     <!-- Category Start -->
                     <div class="mb-5" style="text-align: center !important;">
                         
-                            <iframe id="contfacebook" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FPastoSinteticoST%2F&tabs=timeline&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+                           <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FPastoSinteticoST&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
                         
                     </div>-->
 

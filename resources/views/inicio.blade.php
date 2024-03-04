@@ -69,9 +69,11 @@
                     .col-lg-4 {text-align: center;}
                 }
             </style>
-            <div class="col-lg-4 pb-4" style="min-height: 400px;">
+            <div class="col-lg-4 pb-4" style="min-height: 280px;">
+
+                <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FPastoSinteticoST&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
                 
-                  <iframe id="contfacebook" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FPastoSinteticoST%2F&tabs=timeline&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" style="border:none;overflow:hidden" scrolling="true" frameborder="1" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+                <!--  <iframe id="contfacebook" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FPastoSinteticoST%2F&tabs=timeline&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" style="border:none;overflow:hidden" scrolling="true" frameborder="1" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>-->
                 
             </div>
         </div>
@@ -186,7 +188,7 @@
                 </div>
                 </a>
                 <?php
-                    for($i=1; $i<6;  $i++){
+                    for($i=2; $i<5;  $i++){
                     ?>
                     <a  href="img/galeria/loseta/IMG_<?php echo $i;?>.jpg" data-lightbox="loseta">
                     </a>
