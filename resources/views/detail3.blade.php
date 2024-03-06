@@ -31,23 +31,35 @@
                 <!-- Blog Detail End -->
                 <!-- Comment List Start -->
                 <div class="mb-5">
-                   <div class="row">
-                        <div class="col-lg-7">
+                    <div class="row">
                         <h1 class="display-5 text-uppercase mb-4"> <span class="text-primary">Aplicacion de Sonnoflex </span></h1>
+                    </div>
+                   <div class="row">
+                        <div class="col-lg-4">
+                        
                         <!--<h4 class="text-uppercase mb-3 text-body">Tempor erat elitr at rebum at at clita. Diam dolor diam ipsum tempor sit diam amet diam et eos labore</h4>-->                        
                         <p class="fw-bold mb-2" style="text-align: justify; font-size: 0.8em;"><i class="fa fa-check text-primary me-3"></i><b style="color:#F08300">Verificar la superficie</b><br>Verificar que la superficie de la cancha sea una superficie firme y de concreto</p>
                         <p class="fw-bold mb-2" style="text-align: justify; font-size: 0.8em;"><i class="fa fa-check text-primary me-3"></i><b style="color:#008925">Limpieza</b><br>Limpieza de la superficie</p>
-                        <p class="fw-bold mb-2" style="text-align: justify; font-size: 0.8em;"><i class="fa fa-check text-primary me-3"></i><b style="color:#F307D3">Resanar</b><br>Correción de imperfecciones, grietas y uniones mediante una mezcla homogenea de arena silica y sellador bond.</p>
-                        <p class="fw-bold mb-2" style="text-align: justify; font-size: 0.8em;"><i class="fa fa-check text-primary me-3"></i><b style="color:#E31717">Pulido de la superficie</b><br>Pulimos la superficie para conseguir una superficie brillante, uniforme, suave y libre de defectos.</p>
-                        <p class="fw-bold mb-2" style="text-align: justify; font-size: 0.8em;"><i class="fa fa-check text-primary me-3"></i><b style="color:#79800E">Resurfaces</b><br> Aplicamos 2 capas de resufacer con cargas de arena silica con el fin de sella y dotar la superficie a una textura uniforme, resistente y adherente evitando la humedad en la cancha.</p>
-                        <p class="fw-bold mb-2" style="text-align: justify; font-size: 0.8em;"><i class="fa fa-check text-primary me-3"></i><b style="color:blue">Pintura Sonoflex</b><br> Aplicamos 2 capaz de pintura acrílica antiderrapante marca sonoflex con cargas de arena silica (colores requeridos)</p>
-                        <p class="fw-bold mb-2" style="text-align: justify; font-size: 0.8em;"><i class="fa fa-check text-primary me-3"></i><b style="color:#000F7D">Delimitaciones de la cancha</b><br> Trazado o demarcación de la cancha a cuantos diseños se desee (Fútbol, Básquetbol, Voleibol).</p>
+                        <p class="fw-bold mb-2" style="text-align: justify; font-size: 0.8em;"><i class="fa fa-check text-primary me-3"></i><b style="color:#F307D3">Resanar</b><br>Correción de imperfecciones, grietas y uniones mediante una mezcla homogenea de arena silica y sellador bond.</p>                                                
                         
                     </div>
-                    <div class="col-lg-5 pb-5" style="min-height: 300px;">
-                        <img class="img-fluid" src="img/sonnoflex-2.jpg">
+                    <div class="col-lg-4 pb-5" style="min-height: 300px;">
+                        <p class="fw-bold mb-2" style="text-align: justify; font-size: 0.8em;"><i class="fa fa-check text-primary me-3"></i><b style="color:#E31717">Pulido de la superficie</b><br>Pulimos la superficie para conseguir una superficie brillante, uniforme, suave y libre de defectos.</p>
+                        <p class="fw-bold mb-2" style="text-align: justify; font-size: 0.8em;"><i class="fa fa-check text-primary me-3"></i><b style="color:#79800E">Resurfaces</b><br> Aplicamos 2 capas de resufacer con cargas de arena silica con el fin de sella y dotar la superficie a una textura uniforme, resistente y adherente evitando la humedad en la cancha.</p>                        
                     </div>
+                    <div class="col-lg-4 pb-5">
+                        <p class="fw-bold mb-2" style="text-align: justify; font-size: 0.8em;"><i class="fa fa-check text-primary me-3"></i><b style="color:blue">Pintura Sonoflex</b><br> Aplicamos 2 capaz de pintura acrílica antiderrapante marca sonoflex con cargas de arena silica (colores requeridos)</p>
+                        <p class="fw-bold mb-2" style="text-align: justify; font-size: 0.8em;"><i class="fa fa-check text-primary me-3"></i><b style="color:#000F7D">Delimitaciones de la cancha</b><br> Trazado o demarcación de la cancha a cuantos diseños se desee (Fútbol, Básquetbol, Voleibol).</p>
+                    </div>
+                    
                    </div>
+                </div>
+                <div class="mb-5">
+                    <div class="row">
+                        
+                            <iframe src="https://drive.google.com/file/d/1RTjhbvV6-ORHnT8Ub5V7u13JXMSJer9b/preview" width="640" height="480" allow="autoplay"></iframe>
+                        
+                    </div>
                 </div>
                 <!-- Comment List End -->
  
