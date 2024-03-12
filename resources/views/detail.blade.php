@@ -151,7 +151,7 @@
 
                 <!-- Image Start -->
                 <div class="mb-5">
-                    <img src="img/blog-1.jpg" alt="" class="img-fluid rounded">
+                    <iframe src="https://drive.google.com/file/d/1HM35px2mkqi0w6-fawRnxefWuI7bzlXC/preview" width="550" height="480" allow="autoplay"></iframe>
                 </div>
                 <!-- Image End -->
             

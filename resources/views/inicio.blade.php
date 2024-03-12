@@ -239,6 +239,48 @@
                 }
                 ?>
             </div>
+            <div class="col-lg-4 col-md-6">
+                <a  href="img/galeria/juegos/IMG_5.jpg" data-lightbox="juegos">
+                <div class="service-item bg-white rounded d-flex flex-column align-items-center text-center">
+                    <img class="img-fluid" src="img/servicio8.png" alt="">
+                    <div class="service-icon bg-white">
+                        <i class="fa fa-3x fa-tools text-primary"></i>
+                    </div>
+                    <div class="px-4 pb-4">
+                        <h4 class="text-uppercase mb-3">Juegos Infantiles</h4>
+                    </div>
+                </div>
+                </a>
+                <?php
+                    for($i=1; $i<5;  $i++){
+                    ?>
+                    <a  href="img/galeria/juegos/IMG_<?php echo $i;?>.jpg" data-lightbox="juegos">
+                    </a>
+                <?php
+                }
+                ?>
+            </div>
+            <div class="col-lg-4 col-md-1">
+                <a  href="img/galeria/juegosgim/IMG_5.jpg" data-lightbox="juegosgim">
+                <div class="service-item bg-white rounded d-flex flex-column align-items-center text-center">
+                    <img class="img-fluid" src="img/servicio9.png" alt="">
+                    <div class="service-icon bg-white">
+                        <i class="fa fa-3x fa-tools text-primary"></i>
+                    </div>
+                    <div class="px-4 pb-4">
+                        <h4 class="text-uppercase mb-3">Juegos de Gimnasia</h4>
+                    </div>
+                </div>
+                </a>
+                <?php
+                    for($i=2; $i<9;  $i++){
+                    ?>
+                    <a  href="img/galeria/juegosgim/IMG_<?php echo $i;?>.jpg" data-lightbox="juegosgim">
+                    </a>
+                <?php
+                }
+                ?>
+            </div>
         </div>
     </div>
     <!-- Services End -->
