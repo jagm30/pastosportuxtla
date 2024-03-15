@@ -146,7 +146,7 @@
                 </div>
                 </a>
                 <?php
-                    for($i=1; $i<6;  $i++){
+                    for($i=2; $i<5;  $i++){
                     ?>
                     <a  href="img/galeria/follaje/IMG_<?php echo $i;?>.jpg" data-lightbox="follaje">
                     </a>
@@ -167,7 +167,7 @@
                 </div>
                 </a>
                 <?php
-                    for($i=1; $i<6;  $i++){
+                    for($i=2; $i<6;  $i++){
                     ?>
                     <a  href="img/galeria/tartan/IMG_<?php echo $i;?>.jpg" data-lightbox="tartan">
                     </a>
@@ -176,7 +176,7 @@
                 ?>
             </div>
             <div class="col-lg-4 col-md-6">
-                <a  href="img/galeria/loseta/IMG_6.jpg" data-lightbox="loseta">
+                <a  href="img/galeria/loseta/IMG_1.jpg" data-lightbox="loseta">
                 <div class="service-item bg-white rounded d-flex flex-column align-items-center text-center">
                     <img class="img-fluid" src="img/pastos/servicio5.png" alt="">
                     <div class="service-icon bg-white">
@@ -188,12 +188,12 @@
                 </div>
                 </a>
                 <?php
-                    for($i=2; $i<5;  $i++){
+                  //  for($i=2; $i<5;  $i++){
                     ?>
-                    <a  href="img/galeria/loseta/IMG_<?php echo $i;?>.jpg" data-lightbox="loseta">
-                    </a>
+                  <!--  <a  href="img/galeria/loseta/IMG_<?php echo $i;?>.jpg" data-lightbox="loseta">
+                    </a>-->
                 <?php
-                }
+                //}
                 ?>
             </div>
             <div class="col-lg-4 col-md-6">                
@@ -209,7 +209,7 @@
                 </div>
                 </a>
                 <?php
-                    for($i=1; $i<12;  $i++){
+                    for($i=2; $i<12;  $i++){
                     ?>
                     <a  href="img/galeria/sonoflex/IMG_<?php echo $i;?>.jpg" data-lightbox="sonoflex">
                     </a>
@@ -219,7 +219,7 @@
                 <!--<a  href="img/galeria/sonoflex/VIDEO_1.mp4" data-lightbox="sonoflex"></a>-->
             </div>
             <div class="col-lg-4 col-md-6">
-                <a  href="img/galeria/mantenimiento/IMG_6.jpg" data-lightbox="mantenimiento">
+                <a  href="img/galeria/mantenimiento/IMG_1.jpg" data-lightbox="mantenimiento">
                 <div class="service-item bg-white rounded d-flex flex-column align-items-center text-center">
                     <img class="img-fluid" src="img/pastos/servicio7.png" alt="">
                     <div class="service-icon bg-white">
@@ -231,7 +231,7 @@
                 </div>
                 </a>
                 <?php
-                    for($i=1; $i<12;  $i++){
+                    for($i=2; $i<6;  $i++){
                     ?>
                     <a  href="img/galeria/mantenimiento/IMG_<?php echo $i;?>.jpg" data-lightbox="mantenimiento">
                     </a>
@@ -240,7 +240,7 @@
                 ?>
             </div>
             <div class="col-lg-4 col-md-6">
-                <a  href="img/galeria/juegos/IMG_5.jpg" data-lightbox="juegos">
+                <a  href="img/galeria/juegos/IMG_4.jpg" data-lightbox="juegos">
                 <div class="service-item bg-white rounded d-flex flex-column align-items-center text-center">
                     <img class="img-fluid" src="img/servicio8.png" alt="">
                     <div class="service-icon bg-white">
