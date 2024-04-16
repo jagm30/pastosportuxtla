@@ -31,6 +31,15 @@
 
     <!-- Template Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-BNB21WX551">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-BNB21WX551');
+</script>
 </head>
 
 <body>
