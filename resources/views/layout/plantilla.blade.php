@@ -51,7 +51,7 @@
                     <i class="bi bi-geo-alt fs-1 text-primary me-3" style="color: green !important"></i>
                     <div class="text-start">
                         <h6 class="text-uppercase fw-bold">Ubicación</h6>
-                        <span>Av. 15 Noviembre, mz 44 lte. Linda vista Shanka.</span>
+                        <span>18 de Noviembre LT30 MZ49, Lindavista Shanka, 29016 Tuxtla Gutiérrez, Chiapas.</span>
                     </div>
                 </div>
             </div>
@@ -113,7 +113,7 @@
                     <h1 class="m-0 display-4 text-uppercase text-white"><i class="bi bi-building text-primary me-2"></i>Sport Tuxtla</h1>
                 </a>
                 <p>Contamos con pasto sintético para uso deportivo, áreas recreativas y residencial, de igual forma nos especializamos en pintura antiderrapante sonnoflex para canchas, pistas de tartán, pádel, follaje, duelas de caucho. </p>
-                <p><i class="fa fa-map-marker-alt me-2"></i>Av.15 Noviembre, mz 44 lte. Linda vista Shanka.</p>
+                <p><i class="fa fa-map-marker-alt me-2"></i>18 de Noviembre LT30 MZ49, Lindavista Shanka, 29016 Tuxtla Gutiérrez, Chiapas.</p>
                 <p><i class="fa fa-phone-alt me-2"></i>961 207 4672</p>
                 <a href="mailto:contacto@pastosportuxtla.com"><p><i class="fa fa-envelope me-2"></i>contacto@pastosportuxtla.com</p></a>
 
