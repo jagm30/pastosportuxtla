@@ -89,7 +89,7 @@
             <div class="col-lg-4 col-md-6">                
                 <a  href="img/galeria/sintetico/IMG_6.jpg" data-lightbox="sintetico">
                 <div class="service-item bg-white d-flex flex-column align-items-center text-center">
-                    <img class="img-fluid" src="img/pastos/servicio1.png" alt="" width="600" height="400">
+                    <img class="img-fluid" src="img/galeria/sintetico/portada.jpg" alt="" width="600" height="400">
                     <div class="service-icon bg-white">
                         <i class="fa fa-3x fa-building text-primary"></i>
                     </div>
@@ -114,7 +114,7 @@
             <div class="col-lg-4 col-md-6">                
                 <a  href="img/galeria/residencial/IMG_5.jpg" data-lightbox="residencial">
                 <div class="service-item bg-white rounded d-flex flex-column align-items-center text-center">
-                    <img class="img-fluid" src="img/pastos/servicio2.png" alt="">
+                    <img class="img-fluid" src="img/galeria/residencial/portada.jpg" alt="">
                     <div class="service-icon bg-white">
                         <i class="fa fa-3x fa-home text-primary"></i>
                     </div>
@@ -136,7 +136,7 @@
                 
                 <a  href="img/galeria/follaje/IMG_1.jpg" data-lightbox="follaje">
                 <div class="service-item bg-white rounded d-flex flex-column align-items-center text-center">
-                    <img class="img-fluid" src="img/galeria/follaje/vista.jpg" alt="">
+                    <img class="img-fluid" src="img/galeria/follaje/portada.jpg" alt="">
                     <div class="service-icon bg-white">
                         <i class="fa fa-3x fa-drafting-compass text-primary"></i>
                     </div>
@@ -199,7 +199,7 @@
             <div class="col-lg-4 col-md-6">                
                 <a  href="img/galeria/sonoflex/IMG_1.jpg" data-lightbox="sonoflex">
                 <div class="service-item bg-white rounded d-flex flex-column align-items-center text-center">
-                    <img class="img-fluid" src="img/pastos/servicio6.png" alt="">
+                    <img class="img-fluid" src="img/galeria/sonoflex/portada.jpg" alt="">
                     <div class="service-icon bg-white">
                         <i class="fa fa-3x fa-paint-brush text-primary"></i>
                     </div>
@@ -221,7 +221,7 @@
             <div class="col-lg-4 col-md-6">
                 <a  href="img/galeria/mantenimiento/IMG_1.jpg" data-lightbox="mantenimiento">
                 <div class="service-item bg-white rounded d-flex flex-column align-items-center text-center">
-                    <img class="img-fluid" src="img/pastos/servicio7.png" alt="">
+                    <img class="img-fluid" src="img/galeria/mantenimiento/portada.jpg" alt="">
                     <div class="service-icon bg-white">
                         <i class="fa fa-3x fa-tools text-primary"></i>
                     </div>
@@ -240,9 +240,9 @@
                 ?>
             </div>
             <div class="col-lg-4 col-md-6">
-                <a  href="img/galeria/juegos/IMG_4.jpg" data-lightbox="juegos">
+                <a  href="img/galeria/juegos/IMG_1.jpg" data-lightbox="juegos">
                 <div class="service-item bg-white rounded d-flex flex-column align-items-center text-center">
-                    <img class="img-fluid" src="img/servicio8.png" alt="">
+                    <img class="img-fluid" src="img/galeria/juegos/portada.jpg" alt="">
                     <div class="service-icon bg-white">
                         <i class="fa fa-3x fa-tools text-primary"></i>
                     </div>
@@ -261,9 +261,9 @@
                 ?>
             </div>
             <div class="col-lg-4 col-md-1">
-                <a  href="img/galeria/juegosgim/IMG_5.jpg" data-lightbox="juegosgim">
+                <a  href="img/galeria/juegosgim/IMG_1.jpg" data-lightbox="juegosgim">
                 <div class="service-item bg-white rounded d-flex flex-column align-items-center text-center">
-                    <img class="img-fluid" src="img/servicio9.png" alt="">
+                    <img class="img-fluid" src="img/galeria/juegosgim/portada.jpg" alt="">
                     <div class="service-icon bg-white">
                         <i class="fa fa-3x fa-tools text-primary"></i>
                     </div>
