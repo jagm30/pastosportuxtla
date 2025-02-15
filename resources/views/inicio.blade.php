@@ -162,7 +162,7 @@
                         <i class="fa fa-3x fa-palette text-primary"></i>
                     </div>
                     <div class="px-4 pb-4">
-                        <h4 class="text-uppercase mb-3">Instalación de pista de tartán</h4>
+                        <h4 class="text-uppercase mb-3">Instalación de  pista de tartán</h4>
                     </div>
                 </div>
                 </a>
