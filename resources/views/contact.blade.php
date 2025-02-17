@@ -37,7 +37,7 @@
 
                 <a href="https://wa.link/1tpdmx" target="_blank"><span> <img id="imgwhatsapp" src="img/cotiza.png" > </span></a>
                 <br><br><br>
-                <p><i class="fa fa-map-marker-alt me-2"></i>Av.15 Noviembre, mz 44 lte. Linda vista Shanka.</p>
+                <p><i class="fa fa-map-marker-alt me-2"></i>18 de Noviembre LT30 MZ49, Lindavista Shanka, 29016 Tuxtla Gutiérrez, Chiapas.</p>
                 <p><i class="fa fa-phone-alt me-2"></i>961 207 4672</p>
                 <p><i class="fa fa-envelope me-2"></i>contacto@pastosportuxtla.com</p>
 
